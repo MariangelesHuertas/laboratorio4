@@ -1,0 +1,12 @@
+html {
+    scroll-behavior: smooth;
+    background: #eee;
+  }
+
+.subtitle{
+    font-weight: bold;
+}
+
+.programming-languages i{
+    font-size: 5em;
+}
